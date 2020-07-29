@@ -1,0 +1,18 @@
+h1 {
+	text-decoration: underline;
+	text-shadow: 3px 2px lightblue;
+	font: serif;
+}
+
+h3 {
+	color: blue;
+	font-size: 25px;
+	text-shadow:black;
+	font-style: italic bold;
+	font: white serif;
+}
+
+p.about {
+	
+	font:italic bold 15px/30px serif;
+}
